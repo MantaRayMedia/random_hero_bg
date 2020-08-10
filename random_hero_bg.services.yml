@@ -1,0 +1,6 @@
+services:
+  bg_filter.twig_extension:
+    arguments: ['@renderer']
+    class: Drupal\random_hero_bg\TwigExtension\RandomHeroBG
+    tags:
+      - { name: twig.extension }
