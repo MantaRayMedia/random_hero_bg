@@ -1,0 +1,20 @@
+{
+    "name": "MantaRayMedia/random_hero_bg",
+    "description": "Pass array of strings and get back single string with cleared cache",
+    "type": "drupal-module",
+    "keywords": [
+        "Drupal"
+    ],
+    "homepage": "https://github.com/MantaRayMedia/random_hero_bg",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jernej Slejko",
+            "email": "slejnej@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "drupal/core": "^8.8.0 || ^9.0"
+    }
+}
