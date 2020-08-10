@@ -1,5 +1,5 @@
 {
-    "name": "MantaRayMedia/random_hero_bg",
+    "name": "mrm/random_hero_bg",
     "description": "Pass array of strings and get back single string with cleared cache",
     "type": "drupal-module",
     "keywords": [
