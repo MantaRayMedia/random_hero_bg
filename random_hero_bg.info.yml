@@ -2,4 +2,4 @@ name: Random hero background
 description: Random backgorund class
 core: 8.x
 type: module
-package: PubMLST custom
+package: MRM custom
